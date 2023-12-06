@@ -25,3 +25,5 @@ Uso: Proporciona más espacio de almacenamiento temporal cuando la memoria princ
 
 Almacenamiento no volátil utilizado para almacenar datos de forma permanente, incluso cuando la computadora está apagada.
 Uso: Almacenamiento de datos a largo plazo, incluyendo el sistema operativo, aplicaciones y archivos del usuario.
+
+![Jerarquia](https://2.bp.blogspot.com/--CYXyOSVqJw/Vh-VmdWMu5I/AAAAAAAAABc/pVaI1AQkkdg/s400/descarga.jpg)

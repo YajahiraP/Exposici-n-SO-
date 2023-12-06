@@ -21,3 +21,5 @@ Los sistemas operativos modernos admiten la ejecución de múltiples aplicacione
 #### Almacenamiento de Datos en Disco Duro o SSD:
 
 Los discos duros y unidades de estado sólido (SSD) son ejemplos de dispositivos de almacenamiento persistente. Los datos almacenados en estos dispositivos permanecen intactos incluso cuando la computadora se apaga. Estos dispositivos son comúnmente utilizados para almacenar el sistema operativo, programas y archivos del usuario.
+
+![virtualizacion](https://disete.com/wp-content/uploads/2023/08/beneficios-de-la-virtualizacion.png)

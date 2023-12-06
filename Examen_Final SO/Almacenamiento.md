@@ -25,3 +25,5 @@ Uso Común: Cámaras digitales, teléfonos móviles, cámaras de video, etc.
 Tipo: Almacenamiento en línea a través de servidores remotos.
 Características: Permite el acceso a datos a través de Internet. Ofrece flexibilidad y escalabilidad, pero depende de la conectividad a Internet.
 Uso Común: Servicios de almacenamiento en la nube como Google Drive, Dropbox, Microsoft OneDrive, etc.
+
+![dispositivosAlmacenamiento](https://roa.cedia.edu.ec/webappscode/39/figura_5.1.jpg)
