@@ -94,3 +94,98 @@ El software open source es un codigo diseñado de manera que sea accesible al pu
 
 **Windows XP, Vista, 7, 8 y 10 (2001 en adelante):** XP fue muy exitoso y se mantuvo popular durante mucho tiempo. Vista introdujo cambios significativos, algunos impopulares, mientras que Windows 7 fue bien recibido. Windows 8 introdujo una interfaz táctil y Windows 10 (lanzado en 2015) buscó unificar la experiencia en dispositivos diversos.
 
+# COMANDOS BASICOS DE LA TERMINAL UNIX
+
+**cd** Sirve para cambiar de directorio según se le indice.
+
+**cd newFolder** Sirve para crear un nuevo directorio en la ruta actual.
+
+**history** muestra el historial de comandos escritos en terminal.
+
+**rm fileName** Elimina un archivo con el nombre indicado.
+
+**vim fileName** Abre un archivo con el editor vim.
+
+**ls** muestra los archivos que se encuentran en esa ruta.
+
+**touch fileName** Crea un archivo con el nombre que se le indica.
+
+**pwd “Print Working Directory”** Se utiliza para imprimir el nombre del directorio actual en una sesión.
+
+**ls** Es el comando para enlistar todos los archivos o directorios dentro del directorio actual.
+
+**ls -la** Agrega informacion extra e incluye los archivos ocultos.
+
+**make directoyName** Sirve para crear un directorio con el nombre que se le especifica.
+
+**git init** inicializa un repositorio de git.
+
+**git add .** agrega todos los cambios nuevos que estan en nuestra maquina local.
+
+**git commit -m “mensaje”** guarda un cambio de nuestro repositorio para subirlo a la nube.
+
+**git push** sube los cambios a nuestro cliente remoto por ejemplo github.
+
+**git pull** baja todos los cambios del cliente remoto.
+
+# PROCESOS
+
+## ¿QUE ES UN PROCESO?
+
+Es la ejecucion de un programa individual representado por una serie de instrucciones que el procesador debe ejecutar.
+
+# Componentes de un proceso
+
+**Identificador:** Para distinguirlo de otros procesos.
+
+**Estado:** Si el proceso esta actualmente corriendo, esta en el estado de ejecucion.
+
+**Prioridad:** Nivel de prioridad relativo al resto de los procesos.
+
+**Contador de programa:** La direccion de la siguiente instruccion del programa que se ejecutara. 
+
+**Punteros de memoria:** Incluye los punteros del codigo de programa y los datos asociados a dicho proceso, ademas de cuaquier bloque de memoria compartido.
+
+**Datos de contexto:** Datos que estan presentes en los registros del procesador cuando el proceso esta corriendo. 
+
+**Informacion de estado E/S:** Incluye las peticiones de E/S pendientes, dispositivos de E/S asignados a dicho proceso.
+
+**Informacion de auditoria:** Puede incluir la cantidad de tiempo de procesador y de tiempo de reloj utilizados, asi como los limites de tiempo, etc.
+
+## Estados de un proceso
+
+**Nuevo:** Se solicito al sistema operativo la creacion de un proceso.
+
+**Listo:** Esta listo para iniciar o continuar su ejecucion.
+
+**En ejecucion:** El proceso esta siendo ejecutado en este momento. 
+
+**Bloqueado:** En espera de algun evento para poder continuar su ejecucion.
+
+**Zombie:** El proceso ha finalizado, pero el sistema operativo debe realizar operaciones de limpieza para poder eliminarlo.
+
+**Terminado:** El proceso termino de ejecutarse.
+
+## Transicion de los procesos
+
+Un proceso puede atravesar varias fases o estados hasta que finaliza o termina, a estas se les denonima transiciones.
+
+**Transición A.** Ocurre cuando el programa que está en ejecución necesita algún elemento, señal, dato, etc., para continuar ejecutándose.
+
+**Transición B.** Ocurre cuando un programa o proceso ha utilizado el tiempo asignado por la UCP (procesador) para su ejecución y tiene que dejar paso al siguiente proceso.
+
+**Transición C.** Ocurre cuando el proceso que está preparado pasa al proceso de ejecución, es decir, cuando al proceso le llega una nueva disposición de tiempo de la UCP para poder ejecutarse.
+
+**Transición D.** Ocurre cuando el proceso pasa de estar bloqueado a estar preparado, es decir, cuando el proceso recibe una orden o señal que estaba esperando para pasar al estado de preparado y, posteriormente, tras la transición, a estado de ejecución.
+
+## Planificacion de procesos 
+
+**Prioridad al más corto:** Conocido como SJF (Shortest Job First). Este proceso se distingue porque cuando un proceso se encuentra en ejecución, voluntariamente cambia de estado, es decir que el tiempo de ejecución del proceso no es determinado.
+
+**Primero en entrar-Primero en salir:** También denominado FCFS (First Come First Served), es un algoritmo que utiliza una fila de procesos determinando el funcionamiento de cada proceso por el orden de llegada. 
+
+**Planificación por turno rotatorio:** Llamado Round Robin, es un algoritmo donde se determina el mismo tiempo para la ejecución de todos los procesos.
+
+**Planificación por prioridad:** Esta planificación se caracteriza porque a cada proceso se le asigna una prioridad y se continúan con un criterio determinado. Los procesos serán atendidos de acuerdo con la prioridad determinada.
+
+
