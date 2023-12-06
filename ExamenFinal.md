@@ -1,9 +1,22 @@
 # SISTEMAS OPERATIVOS 
+![LogoULSA](https://camo.githubusercontent.com/1ec463ae74bbd078addd5e3e84c579a60a36d59ca912e92f3f954a549754df2d/68747470733a2f2f6d6f6f646c65323031372e756c73616368696875616875612e6564752e6d782f706c7567696e66696c652e7068702f312f7468656d655f6b6c6173732f6c6f676f2f313632313236373731342f345f494d41474f5449504f5f4c4153414c4c455f4348494855414855415f434f4c4f525f5247425f323032302e706e67)
+
+
+**Yajahira Payan Palma / 13916**
+
+**Manuel Vito saenz / 13425**
+
+
+**ITIT**
+
+**06/DIC/2023**
+
 
 ## ¿QUE ES UN SISTEMA OPERATIVO?
 
 Un sistema operativo es el software que permite manipular el hardware de una computadora o dispositivo electronico.
 
+![SistOp.](https://i0.wp.com/www.profesionalreview.com/wp-content/uploads/2016/11/que-es-linux01.jpg?resize=816%2C9999&ssl=1)
 ## SERVICIOS DEL SISTEMA OPERATIVO
 
 - **OPERACIONES DE E/S**
@@ -18,6 +31,8 @@ Son el conjunto de acciones necesarias para la transferencias de datos, mejor co
     los datos de la memoria central.
    - Los dispositivos mixtos que son los que permiten la introduccion y 
     la extraccion de datos de la memoria central.
+
+    ![Disp.E/S](https://diferencias.online/wp-content/uploads/2022/10/dispositivos-de-entrada-y-salida.png)
 
 - **MANIPULACION DE ARCHIVOS Y DIRECTORIOS** 
 
@@ -72,27 +87,49 @@ El software open source es un codigo diseñado de manera que sea accesible al pu
 
 **Mac OS Classic (1984-2001):** El sistema operativo Mac OS fue lanzado por Apple en 1984 con el Macintosh. Durante esta etapa, se lanzaron varias versiones, como System 1, System 7, y otros. Sin embargo, Mac OS Classic tenía limitaciones en términos de multitarea y estabilidad.
 
+![Classic](https://s3-alpha.figma.com/hub/file/535249409/db19072b-2378-4768-a7cc-e7df3847b002-cover.png)
+
 **Mac OS X (2001-2012):** Apple introdujo Mac OS X en 2001, basado en el núcleo Unix. Las versiones posteriores, como Panther, Tiger y Leopard, mejoraron la estabilidad y el rendimiento. En 2012, Apple abandonó la marca "Mac OS X" y cambió el nombre a "OS X".
 
+![X](https://upload.wikimedia.org/wikipedia/en/d/d8/MacOSX10-0screenshot.png)
+
 **macOS (2016 en adelante):** En 2016, Apple renombró su sistema operativo a macOS para alinear los nombres con sus otros productos (iOS, watchOS, tvOS). Desde entonces, ha habido varias versiones como Sierra, High Sierra, Mojave, Catalina, Big Sur, y más.
+
+![OS](https://www.apple.com/newsroom/images/product/os/macos/standard/apple_macos-bigsur-availability_redesign_11122020.jpg.og.jpg?202310101752)
 
 ## Ubuntu 
 
 **Warty Warthog (2004):** Ubuntu, una distribución de Linux, fue lanzada en 2004 por Canonical Ltd. La versión inicial fue Warty Warthog.
 
+![WW](https://i.ytimg.com/vi/fH3WLq0ilYg/maxresdefault.jpg)
+
 **Versiones sucesivas (2004 en adelante):** A lo largo de los años, Ubuntu ha lanzado diversas versiones con nombres en clave como Hoary Hedgehog, Breezy Badger, Dapper Drake, entre otros. Se centra en la facilidad de uso y accesibilidad.
 
+![2004](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4df47bfc-58c5-4e39-a34a-014195475970/dgdg3k-c5156295-ae27-419a-a0dd-322af8cd89be.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkZjQ3YmZjLTU4YzUtNGUzOS1hMzRhLTAxNDE5NTQ3NTk3MFwvZGdkZzNrLWM1MTU2Mjk1LWFlMjctNDE5YS1hMGRkLTMyMmFmOGNkODliZS5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.iKFp3vphAqWHKzUZHuw1KnKsi3vdtPWYu33yHSmNL5s)
+
 **LTS (Long Term Support):** Cada dos años, se lanza una versión LTS que recibe soporte extendido. Ubuntu ha ganado popularidad tanto en entornos de servidor como de escritorio.
+
+![lts](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://lh5.googleusercontent.com/PRglkirUPxt3hRLx-7qNVfGEB6OEPOqwchBMo71LvwDwJve-W0zRLeBnf21c16Kb8b3Vx5LAFaLn6JHy6mfR7a0Lq6Hj0IsUky2pZ_81EeCp80WBOBMqdwYgVMO7nGkHAWgWOIgp)
 
 ## Windows
 
 **Windows 1.0 a 3.1 (1985-1994):** Microsoft lanzó Windows 1.0 en 1985, pero Windows 3.0 (1990) fue el primero en ganar popularidad. Estas versiones eran interfaces gráficas para el sistema operativo MS-DOS.
 
+![wind1](https://www.muycomputer.com/wp-content/uploads/2015/11/Windows10_22.jpg)
+![Wind3.1](https://www.custompc.com/wp-content/sites/custompc/2023/06/Windows31Hero-550x309.jpg)
+
 **Windows 95, 98, y ME (1995-2000):** Windows 95 fue un hito importante con su interfaz de usuario renovada y características como el menú Inicio. Las versiones posteriores, Windows 98 y ME, continuaron mejorando la interfaz y la estabilidad.
+
+![Wind95](https://www.profesionalreview.com/wp-content/uploads/2020/09/Windows-95.jpg)
 
 **Windows NT y 2000 (1993-2000):** Windows NT fue una línea separada orientada a entornos empresariales. Windows 2000 combinó la estabilidad de NT con la interfaz amigable de las versiones de consumo.
 
-**Windows XP, Vista, 7, 8 y 10 (2001 en adelante):** XP fue muy exitoso y se mantuvo popular durante mucho tiempo. Vista introdujo cambios significativos, algunos impopulares, mientras que Windows 7 fue bien recibido. Windows 8 introdujo una interfaz táctil y Windows 10 (lanzado en 2015) buscó unificar la experiencia en dispositivos diversos.
+![Wind000](https://www.profesionalreview.com/wp-content/uploads/2020/11/windows-2000-2.jpg)
+
+**Windows XP, Vista, 7, 8, 10 y 11 (2001 en adelante):** XP fue muy exitoso y se mantuvo popular durante mucho tiempo. Vista introdujo cambios significativos, algunos impopulares, mientras que Windows 7 fue bien recibido. Windows 8 introdujo una interfaz táctil y Windows 10 (lanzado en 2015) buscó unificar la experiencia en dispositivos diversos.
+
+![WindXP](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/08/55963-windows-xp-mantener.png)
+![Wind11](https://e.rpp-noticias.io/xlarge/2021/06/24/321532_1111843.jpg)
 
 # COMANDOS BASICOS DE LA TERMINAL UNIX
 
@@ -134,7 +171,7 @@ El software open source es un codigo diseñado de manera que sea accesible al pu
 
 Es la ejecucion de un programa individual representado por una serie de instrucciones que el procesador debe ejecutar.
 
-# Componentes de un proceso
+## Componentes de un proceso
 
 **Identificador:** Para distinguirlo de otros procesos.
 
@@ -166,6 +203,8 @@ Es la ejecucion de un programa individual representado por una serie de instrucc
 
 **Terminado:** El proceso termino de ejecutarse.
 
+![process](https://chsos20132912059.files.wordpress.com/2013/10/82.jpg)
+
 ## Transicion de los procesos
 
 Un proceso puede atravesar varias fases o estados hasta que finaliza o termina, a estas se les denonima transiciones.
@@ -187,5 +226,7 @@ Un proceso puede atravesar varias fases o estados hasta que finaliza o termina, 
 **Planificación por turno rotatorio:** Llamado Round Robin, es un algoritmo donde se determina el mismo tiempo para la ejecución de todos los procesos.
 
 **Planificación por prioridad:** Esta planificación se caracteriza porque a cada proceso se le asigna una prioridad y se continúan con un criterio determinado. Los procesos serán atendidos de acuerdo con la prioridad determinada.
+
+![Process](https://www.ecured.cu/images/8/86/Pppso.png)
 
 
